@@ -1,0 +1,13 @@
+{
+  "name": "CodiUp",
+  "version": "0.0.1",
+  "description": "Testing CodiUp app using Heroku, Node.js, and MongoLab",
+  "engines":{
+    "node": "0.6.x",
+    "npm": "1.0.x"
+  },
+  "dependencies": {
+    "connect": "1.8.x",
+    "mongodb": "0.9.x"
+  }
+}
